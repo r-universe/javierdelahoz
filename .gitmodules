@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GeoWeightedModel"]
+	path = GeoWeightedModel
+	url = https://github.com/cran/GeoWeightedModel
+	shallow = true
+	registered = true
 [submodule "LDAShiny"]
 	path = LDAShiny
 	url = https://github.com/javierdelahoz/ldashiny
