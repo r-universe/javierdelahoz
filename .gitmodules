@@ -5,6 +5,3 @@
 [submodule "GeoWeightedModel"]
 	path = GeoWeightedModel
 	url = https://github.com/cran/GeoWeightedModel
-[submodule "LDAShiny"]
-	path = LDAShiny
-	url = https://github.com/javierdelahoz/ldashiny
